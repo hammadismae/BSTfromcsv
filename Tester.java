@@ -46,6 +46,9 @@ public class Tester {
                 //No need for comparator
                 //imagine the node iso and date are joint to form
                 //the unique code and manually compare nodes in bstree
+                
+                //the following block of code loads the data from the CSV file
+                //consider each Integer.parseInt() method as writing into the specific node attribute 
 
                 try {
 
