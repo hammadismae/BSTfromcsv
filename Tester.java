@@ -14,7 +14,7 @@ public class Tester {
     public static void main(String[] args) throws IOException, ParseException {
 
         System.out.println("Reading file...\n");
-        File inputfile = new File("/home/user/Desktop/project2/src/com/company/7.Global_newcases.csv");
+        File inputfile = new File("insert file path of the input file");
 
         //int temp = Integer.parseInt(args[1].trim());//query integer
         int temp = Integer.parseInt("1");
